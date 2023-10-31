@@ -1,0 +1,6 @@
+.Board {
+  margin: 0 auto;
+  /* border: black solid 2px; */
+  padding: 2px;
+  background-color: lightgray;
+}
